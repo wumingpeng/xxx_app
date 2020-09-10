@@ -1,0 +1,27 @@
+{
+  "name": "xxx_app",
+  "version": "0.1.0",
+  "summary": "A short description of xxx_app.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wumingpeng/xxx_app",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wumingpeng": "505490956@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/wumingpeng/xxx_app.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "xxx_app/Classes/**/*",
+  "dependencies": {
+    "DGGSharePayKit": [
+
+    ]
+  }
+}
